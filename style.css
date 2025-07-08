@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: 'Verdana', sans-serif;
+  background: black;
+  color: lime;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 20vh;
+  font-size: 2.5rem;
+}
+
+.subtitle {
+  color: cyan;
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+button {
+  padding: 10px 20px;
+  background: darkgreen;
+  border: 2px solid lime;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+  margin: 10px;
+}
